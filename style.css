@@ -1,0 +1,18 @@
+body{
+    padding-top: 20pt;
+    background-image: url("image.jpg");
+    background-size: cover;
+}
+#heading{
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#myfont{
+    text-align: center;
+}
+#grocery_table{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
